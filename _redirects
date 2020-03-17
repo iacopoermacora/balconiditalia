@@ -2,5 +2,5 @@
 
 # Redirect default Netlify subdomain to primary domain
 https://balconiditalia.netlify.com/* https://balconiditalia.it/:splat 301!
-www.balconiditalia.it/* https://balconiditalia.it/:splat 301!
-balconiditalia.it/* https://balconiditalia.it/:splat 301!
+www.balconiditalia.it/* https://www.balconiditalia.it/:splat 301!
+balconiditalia.it/* https://www.balconiditalia.it/:splat 301!
