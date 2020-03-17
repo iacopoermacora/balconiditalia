@@ -1,0 +1,6 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect default Netlify subdomain to primary domain
+https://balconiditalia.netlify.com/* https://balconiditalia.it/:splat 301!
+www.balconiditalia.it/* https://balconiditalia.it/:splat 301!
+balconiditalia.it/* https://balconiditalia.it/:splat 301!
